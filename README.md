@@ -1,2 +1,2 @@
-# Projet-Reporting-Agent
-Reporting pour les stats des équipes
+# Projet de reporting on GitHub 
+# etablir les stats des équipe afin de suivre leurs évolution
